@@ -1,0 +1,18 @@
+:root {
+    --primary-color:red;
+    --secondary-color:rgb(242, 98, 199);
+
+    --primary-bg:#F4EFFD;
+
+    --secondary-bg: black;
+
+    --primary-border: 1px solid rgb(247, 182, 223);
+
+    --font-family: "anton"
+}
+
+@font-face {
+    font-family: anton;
+    src: url(../public/fonts/Anton-Regular.ttf);
+   
+}
